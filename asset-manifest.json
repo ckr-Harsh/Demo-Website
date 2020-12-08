@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Demo-Website/static/css/main.350d3fc1.chunk.css",
+    "main.js": "/Demo-Website/static/js/main.ce948cab.chunk.js",
+    "main.js.map": "/Demo-Website/static/js/main.ce948cab.chunk.js.map",
+    "runtime-main.js": "/Demo-Website/static/js/runtime-main.8eaa1316.js",
+    "runtime-main.js.map": "/Demo-Website/static/js/runtime-main.8eaa1316.js.map",
+    "static/js/2.b4ae1fda.chunk.js": "/Demo-Website/static/js/2.b4ae1fda.chunk.js",
+    "static/js/2.b4ae1fda.chunk.js.map": "/Demo-Website/static/js/2.b4ae1fda.chunk.js.map",
+    "index.html": "/Demo-Website/index.html",
+    "static/css/main.350d3fc1.chunk.css.map": "/Demo-Website/static/css/main.350d3fc1.chunk.css.map",
+    "static/js/2.b4ae1fda.chunk.js.LICENSE.txt": "/Demo-Website/static/js/2.b4ae1fda.chunk.js.LICENSE.txt",
+    "static/media/bio.09de8565.png": "/Demo-Website/static/media/bio.09de8565.png",
+    "static/media/chemistry.465b972d.png": "/Demo-Website/static/media/chemistry.465b972d.png",
+    "static/media/App.css": "/Demo-Website/static/media/typing.17a24750.png",
+    "static/media/logo.a02ab828.png": "/Demo-Website/static/media/logo.a02ab828.png",
+    "static/media/math.90c01c25.png": "/Demo-Website/static/media/math.90c01c25.png",
+    "static/media/physics.d69bb53b.png": "/Demo-Website/static/media/physics.d69bb53b.png",
+    "static/media/tGhoul.69ea504d.jfif": "/Demo-Website/static/media/tGhoul.69ea504d.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eaa1316.js",
+    "static/js/2.b4ae1fda.chunk.js",
+    "static/css/main.350d3fc1.chunk.css",
+    "static/js/main.ce948cab.chunk.js"
+  ]
+}
